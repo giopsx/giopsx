@@ -11,7 +11,7 @@
 
 - 🎓 Cursando Ciência da Computação no Centro Universitário São Lucas  
 - 💼 Desenvolvedora na Subprocuradoria Contenciosa da PGM Porto Velho  
-- 🛠️ Foco em **legal tech** — automatização de prazos, audiências e fluxos jurídicos and more.
+- 🛠️ Foco em **legal tech** — automatização de prazos, dados, soluções and more.
 - 🎮 Gamer nas horas vagas  
 - 📍 Porto Velho, RO — Brasil
 
