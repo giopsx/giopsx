@@ -11,8 +11,8 @@
 
 - 🎓 Cursando Ciência da Computação no Centro Universitário São Lucas  
 - 💼 Desenvolvedora na Subprocuradoria Contenciosa da PGM Porto Velho  
-- 🛠️ Foco em **legal tech** — automatização de prazos, audiências e fluxos jurídicos  
-- 🎮 PC gamer nas horas vagas  
+- 🛠️ Foco em **legal tech** — automatização de prazos, audiências e fluxos jurídicos and more.
+- 🎮 Gamer nas horas vagas  
 - 📍 Porto Velho, RO — Brasil
 
 ---
@@ -21,9 +21,10 @@
 
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
-| [**refeito-certo**](https://github.com/giopsx/refeito-certo) | Dashboard de controle de prazos processuais com alertas via WhatsApp | Flask · Python · Supabase |
-| **Agenda de Audiências** | Sistema de gestão de audiências com importação de PDFs do PJe | HTML · JS · Supabase |
+| [**Central-De-Alertas-PGM**](https://github.com/giopsx/Central-De-Alertas-PGM) | Sistema de alertas e notificações para a Procuradoria | Python · Flask |
+| [**Cherrys-makeup-landing-page**](https://github.com/giopsx/Cherrys-makeup-landing-page) | Landing page de marca de maquiagem | HTML · CSS · JavaScript |
 | [**afya-poo-atv01**](https://github.com/giopsx/afya-poo-atv01) | Exercícios de Programação Orientada a Objetos | C# · .NET |
+| [**-projeto-bd-agregacao**](https://github.com/giopsx/-projeto-bd-agregacao) | Projeto de banco de dados — modelagem e consultas | MySQL · SQL |
 
 🔗 Deploy: [refeito-certo.onrender.com](https://refeito-certo.onrender.com)
 
@@ -56,9 +57,7 @@
 ### 📫 Contato
 
 <p align="center">
-  <a href="mailto:seu-email@exemplo.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/seu-linkedin"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+  <a href="mailto:giiosecundo@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <p align="center">
   <i>"Código bom é código que resolve problema real."</i>
