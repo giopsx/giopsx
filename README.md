@@ -1,4 +1,4 @@
-# 👩‍💻 Giovanna Segundo
+# 👩‍💻 Giovanna Secundo
 
 > **CS Student | Full-Stack Developer | Legal Tech Builder**  
 > Transformando processos jurídicos com código na **Subprocuradoria Contenciosa PGM Porto Velho**
