@@ -29,18 +29,12 @@ Atualmente desenvolvendo dashboards jurídicos no **Subprocuradoria Contenciosa 
 
 ## 🚀 Projetos em Destaque
 
-### 📋 **Refeito Certo** — Dashboard de Prazos
+### 📋 **Central-De-Alertas-Pgm** — Dashboard de Prazos
 - **Stack:** Flask | Supabase | WhatsApp API | Excel
 - **Features:** Rastreamento de prazos, alertas automáticos, análise de performance
 - **Status:** 🟢 **Em Produção**
 - **Deploy:** [refeito-certo.onrender.com](https://refeito-certo.onrender.com)
 - **Repo:** [giopsx/refeito-certo](https://github.com/giopsx/refeito-certo)
-
-### 📅 **Agenda de Audiências** — Sistema de Agendamento
-- **Stack:** HTML5 | JavaScript | Supabase | Parser PJe
-- **Features:** Calendário interativo, busca global (Ctrl+K), import Excel, color-coding
-- **Status:** 🟢 **Em Produção**
-- **Repo:** [giopsx/agenda-audiencias](https://github.com/giopsx/agenda-audiencias)
 
 ### 🎓 **POO em C#** — Projetos Acadêmicos
 - **Stack:** C# | .NET | SOLID Principles
