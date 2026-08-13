@@ -20,7 +20,7 @@ Atualmente desenvolvendo dashboards jurídicos no **Subprocuradoria Contenciosa 
 
 | 🎓 | 💻 | 🚀 |
 |:---:|:---:|:---:|
-| **3º Período** | **6+ Tech Skills** | **3 Projetos Live** |
+| **4º Período** | **6+ Tech Skills** | **3 Projetos Live** |
 | Centro Universitário | Full-Stack Dev | Em Produção |
 
 </div>
