@@ -14,7 +14,7 @@
 
 Estudante de **Ciência da Computação** na Centro Universitário São Lucas com foco em desenvolvimento web e sistemas. Especializada em criar **ferramentas internas de produção** que automatizam processos complexos.
 
-Atualmente desenvolvendo dashboards jurídicos no **Subprocuradoria Contenciosa PGM Porto Velho**, integrando APIs externas, otimizando UX e resolvendo desafios reais de deployment.
+Atualmente desenvolvendo dashboards jurídicos na **COMCEP PGM Porto Velho**, integrando APIs externas, otimizando UX e resolvendo desafios reais de deployment.
 
 <div align="center">
 
