@@ -120,7 +120,7 @@ Atualmente desenvolvendo dashboards jurídicos na **COMCEP PGM Porto Velho**, in
 ## 🛠️ Soft Skills
 
 - 💬 Comunicação clara e colaborativa
-- 🤝 Trabalho em equipe (projetos recorrentes com Adam Lucas, Carlos Vitor, Vinicius)
+- 🤝 Trabalho em equipe 
 - 🎯 Problem-solving e atenção ao detalhe
 - 📚 Aprendizado contínuo e curiosidade técnica
 - 🚀 Proatividade e propriedade sobre os projetos
